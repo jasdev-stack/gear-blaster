@@ -1,0 +1,12 @@
+{
+  "name": "Gear Blaster",
+  "short_name": "Gear Blaster",
+  "id": "com.example.gamename",
+  "description": "~ Dodge and destroy falling machinery in a relentless mechanical cascade. ~",
+  "orientation": "portrait",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
